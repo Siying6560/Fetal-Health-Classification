@@ -15,6 +15,7 @@ classify the health of a fetus as normal(label: 0), suspect(label:1), pathologic
 1. Examine the dataset to get an overall understanding of the data
 2. Impute missing data if any exists
 3. Train different classification models and get the higheste accuary score
+    -  Tained Models: knn, random forest tree, XGB classifier, support vector machine, GussianNB 
     -  Gridsearch to get the best paramters
     -  Explore feature importantce by training a classification model
     -  Retrain the model to check for accuary based on feature importance
