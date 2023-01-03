@@ -1,7 +1,7 @@
 # Fetal-Health-Classification
 Classify the health of a fetus as Normal, Suspect or Pathological using CTG data
 
-## Background**: 
+## Background: 
 Reduction of child mortality is reflected in several of the United Nations' Sustainable Development Goals and is a key indicator of human progress. Cardiotocograms (CTGs) are a simple and cost accessible option to assess fetal health, allowing healthcare professionals to take action in order to prevent child and maternal mortality. 
 
 ## Data: 
